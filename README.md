@@ -1,2 +1,2 @@
 # PerlinPlane
-http://0x88.me/PerlinPlane/
+https://bionboy.github.io/PerlinPlane/
