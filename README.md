@@ -5,6 +5,8 @@ https://bionboy.github.io/PerlinPlane/
 
 ### Noise.js credit: 
 
+https://github.com/josephg/noisejs
+
 > A speed-improved perlin and simplex noise algorithms for 2D.
 
 > Based on example code by Stefan Gustavson (stegu@itn.liu.se).
